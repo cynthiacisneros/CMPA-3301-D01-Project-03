@@ -1,1 +1,7 @@
-
+Project Name: Melon Heart Photography
+Project Purpose: The purpose of my website is to create a visual space for my small buisness, Melon Heart Photopgraphy, This website will give potential customers the opportunity to see my portfolio and aide them in choosing my buisness for their children's photography. They will have the ability to learn about me, the purpose behind my work, and all information about the booking process.
+Description: My website will be a two-page website prototype marketing tool and client resource. It will help establish our online presence to our intended audiences.
+Desired Results: Through thw website, I want to generate a minimum of 20 new client bookings for fall sessions. Over time, this will help Melon Heart Photography be the go-to choice for capturing a child's heart warming smile.
+Exclusions: The site will not include advanced features such as printing or client account portal. It will also not include complex graphing design or branding.
+Priorities: The priority is to help establish our online presence, while building our portfolio, and a client base. It will be a tool to highlight our authentic child portraits through the visuals shared, focusing on clear navigation and design features that support the project purpose.
+Acceptance Criteria: This project would be accepted by me once the website meets the set criteria stated above. Final approval will come once the site has effectively showcased my photography work, services, and clear booking instuctions.
